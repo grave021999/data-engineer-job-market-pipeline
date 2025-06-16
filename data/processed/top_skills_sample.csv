@@ -1,0 +1,21 @@
+skills_list,count
+python,150
+sql,130
+azure,110
+aws,90
+spark,80
+data pipelines,75
+etl,70
+airflow,65
+docker,60
+kubernetes,55
+power bi,50
+snowflake,45
+pandas,40
+databricks,35
+kafka,30
+rest api,25
+tableau,20
+git,18
+terraform,15
+bigquery,10
