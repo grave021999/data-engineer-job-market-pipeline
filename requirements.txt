@@ -1,0 +1,4 @@
+pandas
+prefect
+great_expectations
+streamlit
