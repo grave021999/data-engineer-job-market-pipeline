@@ -1,3 +1,4 @@
+<img width="1280" height="579" alt="banner" src="https://github.com/user-attachments/assets/1040410c-8017-489e-ad87-e0a80e5fb51b" />
 # 🚀 Data Engineering Job Market Pipeline
 
 **Data Engineering Job Market Pipeline** is an end-to-end mini project designed to analyze job postings and identify the most in-demand skills for Data Engineers. It demonstrates a practical ETL workflow, skill extraction logic, data processing, and dashboard-based visualization.
